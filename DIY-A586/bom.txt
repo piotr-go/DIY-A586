@@ -1,0 +1,194 @@
+Partlist exported from DIY-A586/pcb/v1.6/fpga.sch at 19.07.2019 22:23
+
+Part     Value                   Device                Package               Description                                      
+C1       100nF                   C_0603                0603                                                                   
+C2       100nF                   C_0603                0603                                                                   
+C3       100nF                   C_0603                0603                                                                   
+C4       100nF                   C_0603                0603                                                                   
+C5       100nF                   C_0603                0603                                                                   
+C6       100nF                   C_0603                0603                                                                   
+C7       100nF                   C_0603                0603                                                                   
+C8       10uF                    C_0805                0805                                                                   
+C9       100nF                   C_0603                0603                                                                   
+C10      100nF                   C_0603                0603                                                                   
+C11      100nF                   C_0603                0603                                                                   
+C12      100nF                   C_0603                0603                                                                   
+C13      10uF                    C_0603                0603                                                                   
+C14      100nF                   C_0603                0603                                                                   
+C15      100nF                   C_0603                0603                                                                   
+C16      10nF                    C_0603                0603                                                                   
+C17      10nF                    C_0603                0603                                                                   
+C18      10nF                    C_0603                0603                                                                   
+C19      10nF                    C_0603                0603                                                                   
+C20      100nF                   C_0603                0603                                                                   
+C21      10uF                    C_0805                0805                                                                   
+C22      10uF                    C_0805                0805                                                                   
+C23      10uF                    C_1206                1206                                                                   
+C24      10uF                    C_1206                1206                                                                   
+C25      10uF                    CPOL-EUCT3216         CT3216                POLARIZED CAPACITOR, European symbol             
+C26      100nF                   C_0603                0603                                                                   
+C27      100nF                   C_0603                0603                                                                   
+C28      100nF                   C_0603                0603                                                                   
+C29      100nF                   C_0603                0603                                                                   
+C30      10uF                    CPOL-EUCT3216         CT3216                POLARIZED CAPACITOR, European symbol             
+C31      100nF                   C_0603                0603                                                                   
+C32      100nF                   C_0603                0603                                                                   
+C33      100nF                   C_0603                0603                                                                   
+C34      100nF                   C_0603                0603                                                                   
+C35      10uF                    C_0805                0805                                                                   
+C36      100nF                   C_0603                0603                                                                   
+C37      100nF                   C_0603                0603                                                                   
+C38      10uF                    C_0603                0603                                                                   
+C39      100nF                   C_0603                0603                                                                   
+C40      100nF                   C_0603                0603                                                                   
+C41      100nF                   C_0603                0603                                                                   
+C42      100nF                   C_0603                0603                                                                   
+C43      100nF                   C_0603                0603                                                                   
+C44      100nF                   C_0603                0603                                                                   
+C45      100nF                   C_0603                0603                                                                   
+C46      100nF                   C_0603                0603                                                                   
+C47      100nF                   C_0603                0603                                                                   
+C48      100nF                   C_0603                0603                                                                   
+C49      100nF                   C_0603                0603                                                                   
+C50      100nF                   C_0603                0603                                                                   
+C51      10uF                    C_0805                0805                                                                   
+C52      100nF                   C_0603                0603                                                                   
+C53      10uF                    C_0805                0805                                                                   
+C54      100nF                   C_0603                0603                                                                   
+C55      1uF                     C_0603                0603                                                                   
+C56      100nF                   C_0603                0603                                                                   
+C57      100nF                   C_0603                0603                                                                   
+C58      100nF                   C_0603                0603                                                                   
+C59      10nF                    C_0603                0603                                                                   
+C60      100nF                   C_0603                0603                                                                   
+D1       1N4148                  D-0603                D0603                                                                  
+D2       1N4148                  D-0603                D0603                                                                  
+F1                               R_0805                0805                                                                   
+F2                               R_0603                0603                                                                   
+H1                               MOUNT-PAD-ROUND3.2    3,2-PAD               MOUNTING PAD, round                              
+H2                               MOUNT-PAD-ROUND3.2    3,2-PAD               MOUNTING PAD, round                              
+H3                               MOUNT-PAD-ROUND3.2    3,2-PAD               MOUNTING PAD, round                              
+H4                               MOUNT-PAD-ROUND3.2    3,2-PAD               MOUNTING PAD, round                              
+IC1      SPX1117_1.2V            SPX1117-SOT223        SOT223                                                                 
+IC2      74LVC245                74_245                TSSOP20                                                                
+IC3      74LVC245                74_245                TSSOP20                                                                
+IC5      MAX3232CSE              MAX3232CSE            SO16                  True RS-232 Transceivers 3.0V to 5.5V, Low-Power 
+IC6      16MHz_GENERATOR_3.2x2.5 GENERATOR-SMD-3.2X2.5 GENERATOR-SMD-3.2X2.5                                                  
+IC7      AS4C4M16SA-5TCN         SDRAM32MB             TSOP54                                                                 
+IC8      SPX1117_3.3V            SPX1117-SOT223        SOT223                                                                 
+JTAG     PINHEAD-1X6-20          PINHEAD-1X6-20        PH20-1X6                                                               
+KEYBOARD MINI-DIN6               MINI-DIN6             MINI-DIN6                                                              
+LED1                             LEDSML0805            SML0805               LED                                              
+LED2                             LEDSML0805            SML0805               LED                                              
+MOUSE    MINI-DIN6               MINI-DIN6             MINI-DIN6                                                              
+R1       10k                     R_0603                0603                                                                   
+R2       10k                     R_0603                0603                                                                   
+R3       10k                     R_0603                0603                                                                   
+R4       10k                     R_0603                0603                                                                   
+R5       10k                     R_0603                0603                                                                   
+R6                               R_0603                0603                                                                   
+R7                               R_0603                0603                                                                   
+R8       1k                      R_0603                0603                                                                   
+R9                               R_0603                0603                                                                   
+R10      4k7                     R_0603                0603                                                                   
+R11                              R_0603                0603                                                                   
+R12      470                     R_0603                0603                                                                   
+R13                              R_0603                0603                                                                   
+R14                              R_0603                0603                                                                   
+R15      3k3                     R_0603                0603                                                                   
+R16      3k3                     R_0603                0603                                                                   
+R17      3k3                     R_0603                0603                                                                   
+R18      3k3                     R_0603                0603                                                                   
+R19                              R_0603                0603                                                                   
+R20                              R_0603                0603                                                                   
+R21                              R_0603                0603                                                                   
+R22                              R_0603                0603                                                                   
+R23                              R_0603                0603                                                                   
+R24                              R_0603                0603                                                                   
+R25                              R_0603                0603                                                                   
+R26      3k3                     R_0603                0603                                                                   
+R27      560                     R_0603                0603                                                                   
+R28                              R_0603                0603                                                                   
+R29      560                     R_0603                0603                                                                   
+R30      560                     R_0603                0603                                                                   
+R31      560                     R_0603                0603                                                                   
+R32      100                     R_0603                0603                                                                   
+R33      10k                     R_0603                0603                                                                   
+R34      10k                     R_0603                0603                                                                   
+R35      10k                     R_0603                0603                                                                   
+R36      3k3                     R_0603                0603                                                                   
+R37      3k3                     R_0603                0603                                                                   
+R38      3k3                     R_0603                0603                                                                   
+R39      3k3                     R_0603                0603                                                                   
+R40      3k3                     R_0603                0603                                                                   
+R41      3k3                     R_0603                0603                                                                   
+R42      3k3                     R_0603                0603                                                                   
+R43      3k3                     R_0603                0603                                                                   
+R44      3k3                     R_0603                0603                                                                   
+R45      3k3                     R_0603                0603                                                                   
+R46      3k3                     R_0603                0603                                                                   
+R47      3k3                     R_0603                0603                                                                   
+R48      3k3                     R_0603                0603                                                                   
+R49      10k                     R_0603                0603                                                                   
+R50      10k                     R_0603                0603                                                                   
+R51      1k                      R_0603                0603                                                                   
+R52      1k                      R_0603                0603                                                                   
+R53      100                     R_0603                0603                                                                   
+R54      100                     R_0603                0603                                                                   
+R55      10k                     R_0603                0603                                                                   
+R56      10k                     R_0603                0603                                                                   
+R57      4k7                     R_0603                0603                                                                   
+R58      10k                     R_0603                0603                                                                   
+R59      10k                     R_0603                0603                                                                   
+R60      10k                     R_0603                0603                                                                   
+R61      10k                     R_0603                0603                                                                   
+R62      10k                     R_0603                0603                                                                   
+R63      10k                     R_0603                0603                                                                   
+R64      560                     R_0603                0603                                                                   
+R65      10k                     R_0603                0603                                                                   
+R66      10k                     R_0603                0603                                                                   
+RP3      10k                     R0603-ARC             0603-ARC                                                               
+RP4      10k                     R0603-ARC             0603-ARC                                                               
+RP5      10k                     R0603-ARC             0603-ARC                                                               
+RP6      10k                     R0603-ARC             0603-ARC                                                               
+S1                               31-XX                 B3F-31XX              OMRON SWITCH                                     
+S2                               31-XX                 B3F-31XX              OMRON SWITCH                                     
+SD1      SD                      SD                    SD-SHORT                                                               
+T1       BSS123                  BSS123                SOT23_                                                                 
+T2       BSS123                  BSS123                SOT23_                                                                 
+T3       BSS123                  BSS123                SOT23_                                                                 
+T4       BSS123                  BSS123                SOT23_                                                                 
+T5       BSS123                  BSS123                SOT23_                                                                 
+T6       BSS123                  BSS123                SOT23_                                                                 
+T7       BSS123                  BSS123                SOT23_                                                                 
+T8       BSS123                  BSS123                SOT23_                                                                 
+T9       BSS123                  BSS123                SOT23_                                                                 
+T10      BSS123                  BSS123                SOT23_                                                                 
+T11      BSS123                  BSS123                SOT23_                                                                 
+T12      BSS123                  BSS123                SOT23_                                                                 
+T13      BSS123                  BSS123                SOT23_                                                                 
+T14      BSS123                  BSS123                SOT23_                                                                 
+T15      BSS123                  BSS123                SOT23_                                                                 
+T16      BSS123                  BSS123                SOT23_                                                                 
+T17      BSS123                  BSS123                SOT23_                                                                 
+T18      BSS123                  BSS123                SOT23_                                                                 
+T19      BSS123                  BSS123                SOT23_                                                                 
+T20      BC847                   BC847                 SOT23_                                                                 
+U$1      ESD                     ESD                   ESD2                                                                   
+U$2      ESD                     ESD                   ESD2                                                                   
+U$3      XC6SLX9                 XC6SLX9               TQFP144                                                                
+U$4      74HCT2G125              74HC2G125             DCU-8                                                                  
+U$5      LOGO-DIY-A586           LOGO-DIY-A586         LOGO-DIY-A586                                                          
+U1       GD25Q128FVSG            SPI_FLASH             SPI_FLASH                                                              
+USB-C                            USB-C-PWR             USB-C-PWR                                                              
+VIDEO                            HDMI                  HDMI                                                                   
+X1       DB09MG                  DB09MG                DB9M                                                                   
+X2       DB09MG                  DB09MG                DB9M                                                                   
+X3       DB09MG                  DB09MG                DB9M                                                                   
+Z1                               PINHD-2X17            2X17                  PIN HEADER                                       
+Z2       PINHEAD-1X2B            PINHEAD-1X2B          PINHEAD-1X2B                                                           
+Z3       JACK-S                  JACK-S                JACK-S                                                                 
+Z4       PINHEAD-1X4B            PINHEAD-1X4B          PINHEAD-1X4B                                                           
+Z6       PINHEAD-1X8             PINHEAD-1X8           PINHEAD-1X8                                                            
+Z7       PINHEAD-1X4             PINHEAD-1X4           PINHEAD-1X4                                                            
+Z8       PINHEAD-1X4             PINHEAD-1X4           PINHEAD-1X4                                                            
