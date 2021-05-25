@@ -1,4 +1,4 @@
-# DIY-A586 by piotr_go
+# DIY-A586 by Piotr Gozdur <piotr_go>
 
 ## Board
 ![DIY-A586 top](img/foto_003.jpg)
