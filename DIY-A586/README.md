@@ -73,8 +73,8 @@ This shows the initial flashing with the CH341A programmer on Ubuntu using the [
 flashrom has the weird behaviour that the bin file must have the exact size of the flash rom. This can be fixed with the following workaround:
 
 * read empty flash and write to local .bin file: ```sudo flashrom --programmer ch341a_spi -r example.bin```
-* copy main.bin into example.bin with: ```dd if=main\ \(v0.4\ beta6.1\).bin of=example.bin conv=notrunc```
-* check result: ```vbindiff main\ \(v0.4\ beta6.1\).bin example.bin```
+* copy main.bin into example.bin with: ```dd if=main.bin of=example.bin conv=notrunc```
+* check result: ```vbindiff main.bin example.bin```
 
 ![Minimig core](img/flash-bin-file-size-workaround.png)
 
