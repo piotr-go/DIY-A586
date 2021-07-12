@@ -82,9 +82,7 @@ flashrom has the weird behaviour that the bin file must have the exact size of t
 * you're done ;o)
 
 > Change the example filenames above to your needs respectively to current main.bin version!
-  
 
 ## Links
-* https://www.elektroda.com/rtvforum/topic3598849.html or https://www.elektroda.de/rtvforum/topic3598849.html
+* https://www.elektroda.com/rtvforum/topic3598849.html or https://www.elektroda.pl/rtvforum/topic3598849.html or https://www.elektroda.de/rtvforum/topic3598849.html
 * https://www.youtube.com/watch?v=OAxe3ryDPwQ&list=PLbiryfyA62EBfDKSVf1hBP-nj-KQiV575
-
