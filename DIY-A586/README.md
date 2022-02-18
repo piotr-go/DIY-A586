@@ -70,7 +70,7 @@ If you are using a Gotek drive with FlashFloppy, don't copy files **HXCSDFE.CFG*
 ![Minimig core](img/diy-a586-with-gotek.jpg)
 
 ## Floppy splitter
-With an attached floppy splitter you can attach up to two floppy drives to the DIY-A586 used by the [Amiga Minimig core](cores/amiga/amiga_v0.3_src.tar.gz).
+With an attached floppy splitter you can attach up to two floppy drives to the DIY-A586 used by the [Amiga Minimig core](cores/amiga/minimig/v0.3/amiga_v0.3_src.tar.gz).
 
 ![attached two floppy drives](img/foto_010.jpg)
 
