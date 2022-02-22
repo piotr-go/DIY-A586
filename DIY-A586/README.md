@@ -76,7 +76,7 @@ With an attached floppy splitter you can attach up to two floppy drives to the D
 
 ### Floppy splitter board
 
-Gerber files and PIC16F15313 firmware [included](cores/amiga/amiga_floppy_splitter%20v0.1%20by%20piotr_go.tar.gz).
+Gerber files and PIC16F15313 firmware [included](cores/amiga/minimig/amiga_floppy_splitter%20v0.1%20by%20piotr_go.tar.gz).
 
 > © Floppy Splitter by Piotr Gozdur. COMMERCIAL USE NOT ALLOWED!
 
