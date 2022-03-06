@@ -1,4 +1,4 @@
-# Mican Amiga core by Piotr Gozdur
+# "mikan" Amiga core by Piotr Gozdur
 
 - mikan_v0.1.1
   - CIA speed fix
