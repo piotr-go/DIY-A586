@@ -1,7 +1,7 @@
 # "mikan" Amiga core by Piotr Gozdur
 
 - mikan_v0.1.2
-  - audio interrupt fix
+  - new audio state machine
   - Copper timing fix
   - image cropping fix
 
