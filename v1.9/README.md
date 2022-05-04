@@ -9,12 +9,6 @@
 - [Initial flashing of the firmware](#initial-flashing-of-the-firmware)
   - [Using CH341A 24 25 Series EEPROM Flasher](#using-ch341a-24-25-series-eeprom-flasher)
 - [Gotek Floppy Emulator](#gotek-floppy-emulator)
-- [Floppy splitter](#floppy-splitter)
-  - [Floppy splitter board](#floppy-splitter-board)
-  - [Floppy splitter schematic](#floppy-splitter-schematic)
-  - [Programming the PIC16F15313](#programming-the-pic16f15313)
-  - [Pinout PIC16F15313](#pinout-diagram-pic16f15313)
-  - [Pinout PICkit3](#pinout-pickit3)
 - [Links](#links)
 
 ## Board
@@ -63,43 +57,8 @@ If you are using a Gotek drive with FlashFloppy, don't copy files **HXCSDFE.CFG*
 
 ![Minimig core](img/diy-a586-with-gotek.jpg)
 
-## Floppy splitter
-With an attached floppy splitter you can attach up to two floppy drives to the DIY-A586 used by the [Amiga Minimig core](cores/amiga/minimig/v0.3/amiga_v0.3_src.tar.gz).
-
-![attached two floppy drives](img/foto_010.jpg)
-
-### Floppy splitter board
-
-Gerber files and PIC16F15313 firmware [included](cores/amiga/minimig/amiga_floppy_splitter%20v0.1%20by%20piotr_go.tar.gz).
-
-> © Floppy Splitter by Piotr Gozdur. COMMERCIAL USE NOT ALLOWED!
-
-![floppy splitter board](img/floppy-splitter-photo.jpg)
-
-### Floppy splitter schematic
-
-![schematic of floppy splitter](img/floppy-splitter-schemat.png)
-
-### Programming the PIC16F15313
-
-![pick16f15313 connected to pickit3](img/pic16f15313-connected-to-pickit3.jpg)
-
-Connect the PIC16F15313 to an PICkit3 programmer. The PIC16F15313 needs additional power (it didn't work for me without it).
-
-![MPLAB IPE](img/pickit3-mplab-ipe.png)
-
-Using MPLAB IPE to programm the HEX file of the floppy-splitter. See settings in screenshot. Select the hex file and press "Program".
-
-### Pinout diagram PIC16F15313
-
-![pick16f15313 pinout diagram](img/pic16f15313-pinout-diagram.png)
-
-### Pinout PICkit3
-
-![pickit3 pinout](img/pickit3-pinout.png)
-
 ## Links
 * https://www.elektroda.com/rtvforum/topic3598849.html or\
   https://www.elektroda.pl/rtvforum/topic3598849.html or\
   https://www.elektroda.de/rtvforum/topic3598849.html
-* https://www.youtube.com/watch?v=OAxe3ryDPwQ&list=PLbiryfyA62EBfDKSVf1hBP-nj-KQiV575
+* https://youtu.be/KzVHhvZciVI
