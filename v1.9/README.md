@@ -1,5 +1,5 @@
 # DIY-A586 v1.9 by Piotr Gozdur <piotr_go>
-© DIY-A586 by Piotr Gozdur. COMMERCIAL USE NOT ALLOWED!
+© COMMERCIAL USE NOT ALLOWED!
 
 - [Board](#board)
 - [Schematic](#schematic)
