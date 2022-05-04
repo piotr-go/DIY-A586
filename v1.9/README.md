@@ -18,7 +18,7 @@
 
 ## Board
 
-[Gerber files](pcb/v1.6/gerbers.tar.gz) and [main core](main/MAIN%20v0.4.4a.tar.gz) included.
+[Gerber files](pcb/v1.9/gerbers.tar.gz) and [main core](main/MAIN%20v0.4.4a.tar.gz) included.
 
 > © DIY-A586 by Piotr Gozdur. COMMERCIAL USE NOT ALLOWED!
 
@@ -26,7 +26,7 @@
 ![DIY-A586 bottom](img/foto_004.jpg)
 
 ## Schematic
-![Schematic](pcb/v1.6/schemat.png)
+![Schematic](pcb/v1.9/schemat.png)
 
 ## Menu of main core
 ![Main core menu](img/foto_007.jpg)
@@ -35,9 +35,6 @@
 
 * Amiga (Minimig)
 * NES
-* Next186 SoC PC
-* RISC-V
-* Sinclair Spectrum
 
 ## Running Minimig core
 ![Minimig core](img/foto_008.jpg)
