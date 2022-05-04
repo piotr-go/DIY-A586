@@ -21,7 +21,7 @@
 ![Schematic](pcb/v1.9/schemat.png)
 
 ## Menu of main core
-![Main core menu](img/foto_007.jpg)
+![Main core menu](../v1.6/img/foto_007.jpg)
 
 ## Available cores
 * Amiga (Minimig)
