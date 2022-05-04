@@ -58,7 +58,5 @@ If you are using a Gotek drive with FlashFloppy, don't copy files **HXCSDFE.CFG*
 ![Minimig core](../v1.6/img/diy-a586-with-gotek.jpg)
 
 ## Links
-* https://www.elektroda.com/rtvforum/topic3598849.html or\
-  https://www.elektroda.pl/rtvforum/topic3598849.html or\
-  https://www.elektroda.de/rtvforum/topic3598849.html
+* https://www.elektroda.pl/rtvforum/topic3891155.html
 * https://youtu.be/KzVHhvZciVI
