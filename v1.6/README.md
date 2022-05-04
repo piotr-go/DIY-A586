@@ -1,4 +1,5 @@
-# DIY-A586 by Piotr Gozdur <piotr_go>
+# DIY-A586 v1.6 by Piotr Gozdur <piotr_go>
+© DIY-A586 by Piotr Gozdur. COMMERCIAL USE NOT ALLOWED!
 
 - [Board](#board)
 - [Schematic](#schematic)
@@ -17,10 +18,7 @@
 - [Links](#links)
 
 ## Board
-
 [Gerber files](pcb/v1.6/gerbers.tar.gz) and [main core](main/MAIN%20v0.4.3.tar.gz) included.
-
-> © DIY-A586 by Piotr Gozdur. COMMERCIAL USE NOT ALLOWED!
 
 ![DIY-A586 top](img/foto_003.jpg)
 ![DIY-A586 bottom](img/foto_004.jpg)
@@ -32,7 +30,6 @@
 ![Main core menu](img/foto_007.jpg)
 
 ## Available cores
-
 * Amiga (Minimig)
 * NES
 * Next186 SoC PC
