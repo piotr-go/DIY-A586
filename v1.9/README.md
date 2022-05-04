@@ -28,7 +28,7 @@
 * NES
 
 ## Running Minimig core
-![Minimig core](img/foto_008.jpg)
+![Minimig core](../v1.6/img/foto_008.jpg)
 ![Minimig core](img/foto_009.jpg)
 
 ## Initial flashing of the firmware
