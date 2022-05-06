@@ -6,11 +6,11 @@ Qty Value                      Package       Parts
 1   PINHEAD-1X4-20             PH20-1X4      Z4
 1   PINHEAD-1X4                PINHEAD-1X4   Z2
 1   PINHEAD-1X6-20             PH20-1X6      JTAG
-2   PINHEAD-1X8                PINHEAD-1X8   A500_KB, Z6
+2   PINHEAD-1X8                PINHEAD-1X8   Z6
 2   switch                                   S1, S2
-1   USB-C 6-pin                              USB-C
-1   0.75A                      0603          F3
-1   0.75A                      0805          F1
+1   USB-C                      6-pin         USB-C
+1   polymer fuse 0.75A         0603          F3
+1   polymer fuse 0.75A         0805          F1
 1   SPX1117-1.2V               SOT223        IC10
 3   100                        0603          R32, R53, R54
 43  100nF                      0603          C1, C2, C3, C4, C5, C6, C7, C9, C10, C11, C12, C14, C15, C20, C26, C27, C28, C29, C31, C32, C33, C34, C36, C37, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C55, C56, C57, C58, C60, C62, C63
