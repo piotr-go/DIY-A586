@@ -3,9 +3,9 @@ Partlist exported from diy_a586.sch at 06.05.2022 12:09
 Qty Value                      Package       Parts
 1   PINHEAD-2X17               2X17          FLOPPY
 1   PINHEAD-1X4                PINHEAD-1X4   Z1
-1   PINHEAD-1X4-20             PH20-1X4      Z4
+1   PINHEAD-1X4-2.0mm          PH20-1X4      Z4
 1   PINHEAD-1X4                PINHEAD-1X4   Z2
-1   PINHEAD-1X6-20             PH20-1X6      JTAG
+1   PINHEAD-1X6-2.0mm          PH20-1X6      JTAG
 2   PINHEAD-1X8                PINHEAD-1X8   Z6
 2   switch                                   S1, S2
 1   USB-C                      6-pin         USB-C
@@ -29,7 +29,7 @@ Qty Value                      Package       Parts
 1   74HCT2G125                 DCU-8         IC9
 2   74LVC245                   TSSOP20       IC2, IC3
 1   BC847B                     SOT23         T20
-20  BSS123                     SOT23         T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T21
+20  BSS123/BSS138              SOT23         T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T21
 3   DB9M                       DB9M          JOY1, JOY2, RS232
 1   GREEN                      LED0805       LED2
 1   HDMI                       HDMI          VIDEO
