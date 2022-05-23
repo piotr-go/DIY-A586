@@ -61,5 +61,6 @@ If you are using a Gotek drive with FlashFloppy, don't copy files **HXCSDFE.CFG*
 * https://www.elektroda.pl/rtvforum/topic3891155.html
 * https://youtu.be/KzVHhvZciVI
 
-## PayPal Donations
+<br><b>If you like my projects, you can support me with a donation.&nbsp;&nbsp;</b>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=8PFDDCVKKCSP6&no_recurring=0&currency_code=USD)
+<b>&nbsp;&nbsp;Thank you.</b><br>
