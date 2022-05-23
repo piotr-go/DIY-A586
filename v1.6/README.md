@@ -106,3 +106,7 @@ Using MPLAB IPE to programm the HEX file of the floppy-splitter. See settings in
   https://www.elektroda.pl/rtvforum/topic3598849.html or\
   https://www.elektroda.de/rtvforum/topic3598849.html
 * https://www.youtube.com/watch?v=OAxe3ryDPwQ&list=PLbiryfyA62EBfDKSVf1hBP-nj-KQiV575
+
+<br><b>If you like my projects, you can support me with a donation.&nbsp;&nbsp;</b>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=8PFDDCVKKCSP6&no_recurring=0&currency_code=USD)
+<b>&nbsp;&nbsp;Thank you.</b><br>
