@@ -1,17 +1,16 @@
 # DIY-A586 v1.9 by Piotr Gozdur <piotr_go>
 © COMMERCIAL USE NOT ALLOWED!
 
-- [DIY-A586 v1.9 by Piotr Gozdur \<piotr\_go\>](#diy-a586-v19-by-piotr-gozdur-piotr_go)
-  - [Board](#board)
-  - [Schematic](#schematic)
-  - [Menu of main core](#menu-of-main-core)
-  - [Available cores](#available-cores)
-  - [Running Minimig core](#running-minimig-core)
-  - [Initial flashing of the firmware](#initial-flashing-of-the-firmware)
-    - [Using CH341A 24 25 Series EEPROM Flasher](#using-ch341a-24-25-series-eeprom-flasher)
-    - [detailed example of how to flash](#detailed-example-of-how-to-flash)
-  - [Gotek Floppy Emulator](#gotek-floppy-emulator)
-  - [Links](#links)
+- [Board](#board)
+- [Schematic](#schematic)
+- [Menu of main core](#menu-of-main-core)
+- [Available cores](#available-cores)
+- [Running Minimig core](#running-minimig-core)
+- [Initial flashing of the firmware](#initial-flashing-of-the-firmware)
+  - [Using CH341A 24 25 Series EEPROM Flasher](#using-ch341a-24-25-series-eeprom-flasher)
+  - [detailed example of how to flash](#detailed-example-of-how-to-flash)
+- [Gotek Floppy Emulator](#gotek-floppy-emulator)
+- [Links](#links)
 
 ## Board
 [Gerber files](pcb/v1.9/gerbers.tar.gz) and [main core](main/MAIN%20v0.4.4a.tar.gz) included.
