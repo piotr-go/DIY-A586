@@ -22,16 +22,14 @@
 ## Schematic
 ![Schematic](pcb/v1.9/schemat.png)
 
-## Menu of main core
-![Main core menu](../v1.6/img/foto_007.jpg)
+## Main menu
+![main-menu](../v1.6/img/foto_007.jpg)
 
 ## Available cores
 * Amiga (Minimig)
+* PC 8088
 * NES
-
-## Running Minimig core
-![Minimig core](../v1.6/img/foto_008.jpg)
-![Minimig core](img/foto_009.jpg)
+* RISC-V
 
 ## Initial flashing of the firmware
 
