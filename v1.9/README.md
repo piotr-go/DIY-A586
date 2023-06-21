@@ -3,13 +3,11 @@
 
 - [Board](#board)
 - [Schematic](#schematic)
-- [Menu of main core](#menu-of-main-core)
+- [Main menu](#main-menu)
 - [Available cores](#available-cores)
-- [Running Minimig core](#running-minimig-core)
 - [Initial flashing of the firmware](#initial-flashing-of-the-firmware)
   - [Using CH341A 24 25 Series EEPROM Flasher](#using-ch341a-24-25-series-eeprom-flasher)
   - [detailed example of how to flash](#detailed-example-of-how-to-flash)
-- [Gotek Floppy Emulator](#gotek-floppy-emulator)
 - [Links](#links)
 
 ## Board
@@ -21,16 +19,14 @@
 ## Schematic
 ![Schematic](pcb/v1.9/schemat.png)
 
-## Menu of main core
-![Main core menu](../v1.6/img/foto_007.jpg)
+## Main menu
+![main-menu](../v1.6/img/foto_007.jpg)
 
 ## Available cores
 * Amiga (Minimig)
+* PC 8088
 * NES
-
-## Running Minimig core
-![Minimig core](../v1.6/img/foto_008.jpg)
-![Minimig core](img/foto_009.jpg)
+* RISC-V
 
 ## Initial flashing of the firmware
 
@@ -99,12 +95,6 @@ Using clock_gettime for delay loops (clk_id: 1, resolution: 1ns).
 Found Winbond flash chip "W25Q128.V" (16384 kB, SPI) on ch341a_spi.
 Verifying flash... VERIFIED.
 ```
-
-## Gotek Floppy Emulator
-
-If you are using a Gotek drive with FlashFloppy, don't copy files **HXCSDFE.CFG** and **AUTOBOOT.HFE** to the USB stick. The FlashFloppy/HxC File Selector will not work with DIY-A586. Copy only the **.adf** files to the USB stick and select the files with buttons or the rotary knob.
-
-![Minimig core](../v1.6/img/diy-a586-with-gotek.jpg)
 
 ## Links
 * https://www.elektroda.pl/rtvforum/topic3891155.html
