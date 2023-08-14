@@ -1,5 +1,9 @@
 # "mikan" Amiga core by Piotr Gozdur
 
+- mikan_v0.1.5
+  - PAULA reset fix
+  - collision fix
+
 - mikan_v0.1.4
   - added automatic floppy switcher
   - LED fix
