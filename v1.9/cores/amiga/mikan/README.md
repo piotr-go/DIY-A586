@@ -1,5 +1,8 @@
 # "mikan" Amiga core by Piotr Gozdur
 
+- mikan_v0.1.6
+  - floppy & kick1.3 fix
+
 - mikan_v0.1.5
   - PAULA reset fix
   - collision fix
