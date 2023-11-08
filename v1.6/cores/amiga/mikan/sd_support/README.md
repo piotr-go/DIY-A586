@@ -31,6 +31,9 @@ Option 2:
 
 Changes:
 
+- v0.9.1
+  - PDS partition support
+
 - v0.9
   - multiple HD support
   - PFS3 support
