@@ -1,5 +1,10 @@
 # "mikan" Amiga core by Piotr Gozdur
 
+- mikan_v0.1.7
+  - faster SD
+  - bitplanes fix
+  - sound fix
+
 - mikan_v0.1.6
   - new floppy read
 
