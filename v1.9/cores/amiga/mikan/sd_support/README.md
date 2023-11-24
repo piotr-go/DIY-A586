@@ -31,6 +31,10 @@ Option 2:
 
 Changes:
 
+- v0.10
+  - speed
+  - bug fixes
+
 - v0.9.1
   - PDS partition support
 
