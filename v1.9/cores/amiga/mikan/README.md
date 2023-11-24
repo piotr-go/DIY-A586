@@ -3,7 +3,7 @@
 - mikan_v0.1.7
   - faster SD
   - bitplanes fix
-  - sound fix
+  - audio interrupt fix, again
 
 - mikan_v0.1.6
   - new floppy read
