@@ -31,6 +31,10 @@ Option 2:
 
 Changes:
 
+- v0.10.1
+  - write fix
+  - added card reset and retry when error
+
 - v0.10
   - speed
   - bug fixes
