@@ -1,5 +1,12 @@
 # "mikan" Amiga core by Piotr Gozdur
 
+- mikan_v0.1.9
+  - Amiga mouse support
+  - Amiga keyboard support (mikan_k500)
+
+- mikan_v0.1.8
+  - new hotkeys
+
 - mikan_v0.1.7
   - faster SD
   - bitplanes fix
